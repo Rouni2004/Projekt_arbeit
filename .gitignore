@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# DataSpell / IntelliJ project files
+.idea/
+*.iml
+
+# Notebook output and metadata
+*.nbconvert.ipynb
+*.nbmetadata
+
+# Python virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# VSCode config if shared
+.vscode/
+
+# Local data or model files (optional)
+*.h5
+*.ckpt
+*.pth
+*.pkl
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.tar.gz
