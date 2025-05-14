@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<!DOCTYPE moduldbheader [
+
+<!--define the internal DTD-->
+
+<!ELEMENT document (moduleheader*)>
+	<!ELEMENT moduleheader (title,cid,semester,ctypes,cp,covernor)>
+		<!ELEMENT title (#PCDATA)>
+		<!ELEMENT cid (#PCDATA)>
+		<!ELEMENT semester (#PCDATA)>
+		<!ELEMENT ctypes (ctype*)>
+			<!ELEMENT ctype (hours,type)>
+				<!ELEMENT hours (#PCDATA)>
+				<!ELEMENT type (#PCDATA)>
+		<!ELEMENT cp (#PCDATA)>
+		<!ELEMENT convenor (#PCDATA)>
+
+<!--close the DOCTYPE declaration-->
+]>
+
+<document>
+<moduleheader>
+<title>Bachelor-Abschlussarbeit</title>
+<cid>PIB-BT</cid>
+<semester>6</semester>
+<ctypes>
+</ctypes>
+<cp>12</cp>
+<convenor>Studienleitung</convenor>
+</moduleheader>
+<moduleheader>
+<title>Bachelor-Kolloquium</title>
+<cid>PIB-BK</cid>
+<semester>6</semester>
+<ctypes>
+</ctypes>
+<cp>3</cp>
+<convenor>Studienleitung</convenor>
+</moduleheader>
+<moduleheader>
+<title>Betriebssysteme</title>
+<cid>PIB-BS</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Betriebssystemeinführung</title>
+<cid>PIB-BSE</cid>
+<semester>1</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Markus Esch</convenor>
+</moduleheader>
+<moduleheader>
+<title>Betriebswirtschaftslehre</title>
+<cid>PIB-BWL</cid>
+<semester>1</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. André Miede</convenor>
+</moduleheader>
+<moduleheader>
+<title>Business Comm. and Intercultural Competence</title>
+<cid>PIB-EN1</cid>
+<semester>1</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Datenbanken</title>
+<cid>PIB-DB</cid>
+<semester>3</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Grundlagen der Webentwicklung</title>
+<cid>PIB-WEB</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Maximilian Altmeyer</convenor>
+</moduleheader>
+<moduleheader>
+<title>Informatik 1</title>
+<cid>PIB-INF1</cid>
+<semester>1</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Informatik 2</title>
+<cid>PIB-INF2</cid>
+<semester>2</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mathematik 1</title>
+<cid>PIB-MA1</cid>
+<semester>1</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+<hours>2</hours>
+<type>U</type>
+</ctypes>
+<cp>7</cp>
+<convenor>Prof. Dr. Peter Birkner</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mathematik 2</title>
+<cid>PIB-MA2</cid>
+<semester>2</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Peter Birkner</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mathematik 3</title>
+<cid>PIB-MA3</cid>
+<semester>3</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Peter Birkner</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mikroprozessortechnik</title>
+<cid>PIB-MP</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Jürgen Schäfer</convenor>
+</moduleheader>
+<moduleheader>
+<title>Praxisphase</title>
+<cid>PIB-PRA</cid>
+<semester>6</semester>
+<ctypes>
+</ctypes>
+<cp>15</cp>
+<convenor>Studienleitung</convenor>
+</moduleheader>
+<moduleheader>
+<title>Professional Presentations</title>
+<cid>PIB-EN3</cid>
+<semester>3</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Programmierung 1</title>
+<cid>PIB-PR1</cid>
+<semester>1</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>8</cp>
+<convenor>Prof. Dr.-Ing. Martin Burger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Programmierung 2</title>
+<cid>PIB-PR2</cid>
+<semester>2</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>8</cp>
+<convenor>Prof. Dr. Markus Esch</convenor>
+</moduleheader>
+<moduleheader>
+<title>Programmierung 3</title>
+<cid>PIB-PR3</cid>
+<semester>3</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Martin Burger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Projektarbeit</title>
+<cid>PIB-PA</cid>
+<semester>4</semester>
+<ctypes>
+<hours>3</hours>
+<type>PA</type>
+<hours>1</hours>
+<type>S</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Professor/innen des Studiengangs</convenor>
+</moduleheader>
+<moduleheader>
+<title>Projektmanagement</title>
+<cid>PIB-PM</cid>
+<semester>3</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Rechnerarchitektur</title>
+<cid>PIB-RAR</cid>
+<semester>2</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Rechnernetze</title>
+<cid>PIB-RN</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Security-Engineering</title>
+<cid>PIB-SE</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Damian Weber</convenor>
+</moduleheader>
+<moduleheader>
+<title>Softwaretechnik</title>
+<cid>PIB-SWT</cid>
+<semester>3</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Martin Burger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Technical Reading and Writing</title>
+<cid>PIB-EN2</cid>
+<semester>2</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Theoretische Informatik</title>
+<cid>PIB-TI</cid>
+<semester>3</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Maximilian Altmeyer</convenor>
+</moduleheader>
+<moduleheader>
+<title>Verteilte Systeme</title>
+<cid>PIB-VS</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+<hours>1</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Markus Esch</convenor>
+</moduleheader>
+<moduleheader>
+<title>Wirtschaftsinformatik</title>
+<cid>PIB-WIN</cid>
+<semester>2</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. André Miede</convenor>
+</moduleheader>
+<moduleheader>
+<title>Wissenschaftliches Arbeiten</title>
+<cid>PIB-WA</cid>
+<semester>4</semester>
+<ctypes>
+<hours>1</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Peter Birkner</convenor>
+</moduleheader>
+<moduleheader>
+<title>.NET Webkonzepte und Werkzeuge</title>
+<cid>PIB-NETW</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Thomas Beckert, M.Sc.</convenor>
+</moduleheader>
+<moduleheader>
+<title>Auswirkungen von Gender und Diversity auf Beruf und Studium</title>
+<cid>PIB-GD</cid>
+<semester>0</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Sandra Wiegand, M.A.</convenor>
+</moduleheader>
+<moduleheader>
+<title>Auswirkungen von Gender und Diversity auf Beruf und Studium (Teilmodul)</title>
+<cid>PIB-GDT</cid>
+<semester>0</semester>
+<ctypes>
+</ctypes>
+<cp>3</cp>
+<convenor>Sandra Wiegand, M.A.</convenor>
+</moduleheader>
+<moduleheader>
+<title>Automatisierte Softwareentwicklung</title>
+<cid>PIB-ASE</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Martin Burger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Automobiltechnik</title>
+<cid>PIB-ATEC</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Horst Wieker</convenor>
+</moduleheader>
+<moduleheader>
+<title>Breitbandtechnologien und -anwendungen</title>
+<cid>PIB-BBTA</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Horst Wieker</convenor>
+</moduleheader>
+<moduleheader>
+<title>CAX Grundlagen und Anwendungsbeispiele</title>
+<cid>PIB-CAX</cid>
+<semester>3</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Pascal Stoffels</convenor>
+</moduleheader>
+<moduleheader>
+<title>Cloud Computing</title>
+<cid>PIB-CCOM</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Markus Esch</convenor>
+</moduleheader>
+<moduleheader>
+<title>Compilerbau</title>
+<cid>PIB-CBAU</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Markus Esch</convenor>
+</moduleheader>
+<moduleheader>
+<title>Computervision</title>
+<cid>PIB-CVIS</cid>
+<semester>4</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Gerald Kroisandt</convenor>
+</moduleheader>
+<moduleheader>
+<title>Datenbanken Repetitorium</title>
+<cid>PIB-DBREP</cid>
+<semester>4</semester>
+<ctypes>
+</ctypes>
+<cp>0</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Digitale Fernsehtechnik</title>
+<cid>PIB-DIGF</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Martin Buchholz</convenor>
+</moduleheader>
+<moduleheader>
+<title>Digitale Produktionssysteme</title>
+<cid>PIB-DPS</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Pascal Stoffels</convenor>
+</moduleheader>
+<moduleheader>
+<title>Durchführung von RoboNight Workshops</title>
+<cid>PIB-ROBO</cid>
+<semester>4</semester>
+<ctypes>
+<hours>1</hours>
+<type>PA</type>
+<hours>1</hours>
+<type>S</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Einführung in die Astronomie</title>
+<cid>PIB-ASTR</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Martin Löffler-Mang</convenor>
+</moduleheader>
+<moduleheader>
+<title>Einführung in die parallele Programmierung mit CUDA</title>
+<cid>PIB-CUDA</cid>
+<semester>5</semester>
+<ctypes>
+<hours>1</hours>
+<type>V</type>
+<hours>1</hours>
+<type>P</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Dipl.-Inform. Marion Bohr</convenor>
+</moduleheader>
+<moduleheader>
+<title>Einführung in sichere Programmierung</title>
+<cid>PIB-EISP</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Peter Birkner</convenor>
+</moduleheader>
+<moduleheader>
+<title>Einführung in Wireless LANs</title>
+<cid>PIB-WLAN</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Dipl.-Math. Wolfgang Braun</convenor>
+</moduleheader>
+<moduleheader>
+<title>Elektromobilität</title>
+<cid>PIB-EMOB</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Horst Wieker</convenor>
+</moduleheader>
+<moduleheader>
+<title>Embedded Linux</title>
+<cid>PIB-EMBL</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>4</cp>
+<convenor>Dipl.-Inf. Ulrich Bruch</convenor>
+</moduleheader>
+<moduleheader>
+<title>Enterprise Java Beans</title>
+<cid>PIB-EJB</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Martin Burger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Entscheidungen unter Risiko und statistische Datenanalyse</title>
+<cid>PIB-ERSD</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>4</cp>
+<convenor>Melanie Kaspar, M.Sc.</convenor>
+</moduleheader>
+<moduleheader>
+<title>Entwurfsmuster</title>
+<cid>PIB-EWM</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Martin Burger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Fehlererkennende und fehlerkorrigierende Codes</title>
+<cid>PIB-FFKC</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Dipl.-Math. Wolfgang Braun</convenor>
+</moduleheader>
+<moduleheader>
+<title>Französisch 1</title>
+<cid>PIB-FRA1</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Französisch 2</title>
+<cid>PIB-FRA2</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Französisch für Anfänger 1</title>
+<cid>PIB-FFA1</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Französisch für Anfänger 2</title>
+<cid>PIB-FFA2</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Funktionale Programmierung</title>
+<cid>PIB-FPRG</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Thomas Kretschmer</convenor>
+</moduleheader>
+<moduleheader>
+<title>Future Internet and Smart City with Software Defined Networking</title>
+<cid>PIB-FISC</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Joberto Martins</convenor>
+</moduleheader>
+<moduleheader>
+<title>Future Internet: Software Defined Networking</title>
+<cid>PIB-FSDN</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>4</cp>
+<convenor>Prof. Dr. Damian Weber</convenor>
+</moduleheader>
+<moduleheader>
+<title>Game Design</title>
+<cid>PIB-GAD</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Maximilian Altmeyer</convenor>
+</moduleheader>
+<moduleheader>
+<title>Game Design and Development</title>
+<cid>PIB-GDEV</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. André Miede</convenor>
+</moduleheader>
+<moduleheader>
+<title>Gehirn-Computer-Schnittstelle</title>
+<cid>PIB-BCI</cid>
+<semester>0</semester>
+<ctypes>
+<hours>1</hours>
+<type>V</type>
+<hours>3</hours>
+<type>PA</type>
+</ctypes>
+<cp>6</cp>
+<convenor>Prof. Dr. Dr. Daniel Strauß</convenor>
+</moduleheader>
+<moduleheader>
+<title>Grundlagen der Ausbildereignung</title>
+<cid>PIB-AUSB</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Studiendekan</convenor>
+</moduleheader>
+<moduleheader>
+<title>GUI-Programmierung mit Qt</title>
+<cid>PIB-PRQT</cid>
+<semester>4</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Hong-Phuc Bui, M.Sc.</convenor>
+</moduleheader>
+<moduleheader>
+<title>Halbleitertechnologie und Produktion</title>
+<cid>PIB-HLTP</cid>
+<semester>4</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Albrecht Kunz</convenor>
+</moduleheader>
+<moduleheader>
+<title>Human Computer Interaction</title>
+<cid>PIB-HCI</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Steven Frysinger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Industrial Ecology</title>
+<cid>PIB-INEC</cid>
+<semester>4</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Steven Frysinger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Industrielle Entwicklungsprozesse</title>
+<cid>PIB-IEP</cid>
+<semester>4</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Kai Haake</convenor>
+</moduleheader>
+<moduleheader>
+<title>Informatik 1 Repetitorium</title>
+<cid>PIB-IREP1</cid>
+<semester>1</semester>
+<ctypes>
+</ctypes>
+<cp>0</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Informatik 2 Repetitorium</title>
+<cid>PIB-IREP2</cid>
+<semester>3</semester>
+<ctypes>
+</ctypes>
+<cp>0</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Information Retrieval</title>
+<cid>PIB-IRET</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Informationssicherheit</title>
+<cid>PIB-ISEC</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Damian Weber</convenor>
+</moduleheader>
+<moduleheader>
+<title>Intensive Programme &quot;Engineering Visions&quot;</title>
+<cid>PIB-IPRE</cid>
+<semester>4</semester>
+<ctypes>
+<hours>3</hours>
+<type>PA</type>
+<hours>1</hours>
+<type>S</type>
+</ctypes>
+<cp>4</cp>
+<convenor>Prof. Dr. Martin Löffler-Mang</convenor>
+</moduleheader>
+<moduleheader>
+<title>Interkulturelle Kommunikation</title>
+<cid>PIB-INTK</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Internet-Technologien</title>
+<cid>PIB-INET</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Maximilian Altmeyer</convenor>
+</moduleheader>
+<moduleheader>
+<title>IoT-Anwendungen</title>
+<cid>PIB-IOTA</cid>
+<semester>0</semester>
+<ctypes>
+<hours>4</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>IT-Forensik</title>
+<cid>PIB-ITF</cid>
+<semester>5</semester>
+<ctypes>
+<hours>1</hours>
+<type>V</type>
+<hours>1</hours>
+<type>P</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Damian Weber</convenor>
+</moduleheader>
+<moduleheader>
+<title>IT-Forensik Praktikum</title>
+<cid>PIB-ITFP</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Damian Weber</convenor>
+</moduleheader>
+<moduleheader>
+<title>Kinematische Grundlagen der Robotik</title>
+<cid>PIB-KGR</cid>
+<semester>5</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Michael Kleer</convenor>
+</moduleheader>
+<moduleheader>
+<title>Machine Learning</title>
+<cid>PIB-MLRN</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mathematik-Grundwissen</title>
+<cid>PIB-MAG</cid>
+<semester>1</semester>
+<ctypes>
+</ctypes>
+<cp>0</cp>
+<convenor>Prof. Dr. Marco Günther</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mathematik-Softwaresysteme und algorithmische Anwendungen</title>
+<cid>PIB-MSAA</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>V</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Barbara Grabowski</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mentoring</title>
+<cid>PIB-MENT</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Sandra Wiegand, M.A.</convenor>
+</moduleheader>
+<moduleheader>
+<title>Messungen und Simulationen in der Nachrichtentechnik</title>
+<cid>PIB-MSNT</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Albrecht Kunz</convenor>
+</moduleheader>
+<moduleheader>
+<title>Methoden und Anwendungen der künstlichen Intelligenz zur Signal-und Bildverarbeitung</title>
+<cid>PIB-KISB</cid>
+<semester>6</semester>
+<ctypes>
+<hours>4</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Ahmad Osman</convenor>
+</moduleheader>
+<moduleheader>
+<title>Microservices in industriellen Anwendungen</title>
+<cid>PIB-MSIA</cid>
+<semester>0</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Mobile Application Development (Android)</title>
+<cid>PIB-MADA</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Christoph Karls, M.Sc.</convenor>
+</moduleheader>
+<moduleheader>
+<title>Numerische Simulation</title>
+<cid>PIB-NSIM</cid>
+<semester>4</semester>
+<ctypes>
+<hours>4</hours>
+<type>SU</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Kai Haake</convenor>
+</moduleheader>
+<moduleheader>
+<title>Numerische Software</title>
+<cid>PIB-NUMS</cid>
+<semester>0</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Gerald Kroisandt</convenor>
+</moduleheader>
+<moduleheader>
+<title>Preparing for the IELTS Test</title>
+<cid>PIB-IEL</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>VU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Presenting a Project</title>
+<cid>PIB-SSP</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Programmierung 4</title>
+<cid>PIB-PRG4</cid>
+<semester>4</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Martin Burger</convenor>
+</moduleheader>
+<moduleheader>
+<title>Programmierwerkzeuge</title>
+<cid>PIB-PRGW</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Reinhard Brocks</convenor>
+</moduleheader>
+<moduleheader>
+<title>Projekt IT-Sicherheit</title>
+<cid>PIB-PITS</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Damian Weber</convenor>
+</moduleheader>
+<moduleheader>
+<title>Projekt Web-Security</title>
+<cid>PIB-PWS</cid>
+<semester>4</semester>
+<ctypes>
+<hours>1</hours>
+<type>V</type>
+<hours>1</hours>
+<type>PA</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Damian Weber</convenor>
+</moduleheader>
+<moduleheader>
+<title>Rapid Game Development</title>
+<cid>PIB-RGD</cid>
+<semester>4</semester>
+<ctypes>
+<hours>1</hours>
+<type>V</type>
+<hours>1</hours>
+<type>U</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. André Miede</convenor>
+</moduleheader>
+<moduleheader>
+<title>Recht für Existenzgründer</title>
+<cid>PIB-REXG</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>2</cp>
+<convenor>RA Cordula Hildebrandt</convenor>
+</moduleheader>
+<moduleheader>
+<title>Recht im Internet</title>
+<cid>PIB-REII</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>2</cp>
+<convenor>RA Cordula Hildebrandt</convenor>
+</moduleheader>
+<moduleheader>
+<title>Repetitorium Mathematik 1</title>
+<cid>PIB-RMA1</cid>
+<semester>2</semester>
+<ctypes>
+</ctypes>
+<cp>0</cp>
+<convenor>Prof. Dr. Peter Birkner</convenor>
+</moduleheader>
+<moduleheader>
+<title>Repetitorium Mathematik 2</title>
+<cid>PIB-RMA2</cid>
+<semester>3</semester>
+<ctypes>
+</ctypes>
+<cp>0</cp>
+<convenor>Dipl.-Physiker Michael Meßner</convenor>
+</moduleheader>
+<moduleheader>
+<title>Rhetorik und Präsentationstechnik</title>
+<cid>PIB-RP</cid>
+<semester>0</semester>
+<ctypes>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Studienleitung</convenor>
+</moduleheader>
+<moduleheader>
+<title>Robotik-Praktikum</title>
+<cid>PIB-ROBP</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>P</type>
+</ctypes>
+<cp>4</cp>
+<convenor>Dipl.-Ing. Dirk Ammon</convenor>
+</moduleheader>
+<moduleheader>
+<title>Ruby on Rails</title>
+<cid>PIB-RUBY</cid>
+<semester>4</semester>
+<ctypes>
+<hours>3</hours>
+<type>V</type>
+<hours>1</hours>
+<type>P</type>
+</ctypes>
+<cp>4</cp>
+<convenor>Dipl.-Inf. Julian Fischer</convenor>
+</moduleheader>
+<moduleheader>
+<title>Russisch für Anfänger 1</title>
+<cid>PIB-RFA1</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Russisch für Anfänger 2</title>
+<cid>PIB-RFA2</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Seminar - Computer Science and Society</title>
+<cid>PIB-SCSS</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr.-Ing. André Miede</convenor>
+</moduleheader>
+<moduleheader>
+<title>Seminar - Informatik in den Medien</title>
+<cid>PIB-SIDM</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Klaus Berberich</convenor>
+</moduleheader>
+<moduleheader>
+<title>Seminar - Kommunikation als Schlüsselelement der Industrie 4.0</title>
+<cid>PIB-SKOM</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Seminar Angewandte Informatik</title>
+<cid>PIB-SAI</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>3</cp>
+<convenor>Prof. Dr.-Ing. André Miede</convenor>
+</moduleheader>
+<moduleheader>
+<title>Sino-German Student Club for Smart Sensors</title>
+<cid>PIB-SGSC</cid>
+<semester>4</semester>
+<ctypes>
+<hours>1</hours>
+<type>V</type>
+<hours>3</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Martina Lehser</convenor>
+</moduleheader>
+<moduleheader>
+<title>Softwareentwicklung für kollaborative Industrieroboter</title>
+<cid>PIB-IROB</cid>
+<semester>5</semester>
+<ctypes>
+<hours>4</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Steffen Knapp</convenor>
+</moduleheader>
+<moduleheader>
+<title>Softwareentwicklung mit Spring</title>
+<cid>PIB-SES</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Markus Esch</convenor>
+</moduleheader>
+<moduleheader>
+<title>Spanisch für Anfänger 1</title>
+<cid>PIB-SFA1</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Spanisch für Anfänger 2</title>
+<cid>PIB-SFA2</cid>
+<semester>6</semester>
+<ctypes>
+<hours>2</hours>
+<type>SU</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Prof. Dr. Christine Sick</convenor>
+</moduleheader>
+<moduleheader>
+<title>Sustainable Product Engineering</title>
+<cid>PIB-SPE</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr.-Ing. Pascal Stoffels</convenor>
+</moduleheader>
+<moduleheader>
+<title>Systems Engineering</title>
+<cid>PIB-SYSE</cid>
+<semester>5</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>PA</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Martin Buchholz</convenor>
+</moduleheader>
+<moduleheader>
+<title>Technische Dokumentation</title>
+<cid>PIB-TDOK</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+</ctypes>
+<cp>2</cp>
+<convenor>Dipl.-Ing. Irmgard Köhler-Uhl</convenor>
+</moduleheader>
+<moduleheader>
+<title>Telekommunikationselektronik</title>
+<cid>PIB-TKE</cid>
+<semester>0</semester>
+<ctypes>
+<hours>2</hours>
+<type>PA</type>
+<hours>2</hours>
+<type>S</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Albrecht Kunz</convenor>
+</moduleheader>
+<moduleheader>
+<title>User Experience Engineering</title>
+<cid>PIB-UXE</cid>
+<semester>4</semester>
+<ctypes>
+<hours>2</hours>
+<type>V</type>
+<hours>2</hours>
+<type>U</type>
+</ctypes>
+<cp>5</cp>
+<convenor>Prof. Dr. Maximilian Altmeyer</convenor>
+</moduleheader>
+</document>
