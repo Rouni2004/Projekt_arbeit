@@ -1,0 +1,182 @@
+alle fächer
+
+============================================================
+Modul: Betriebssystemeinführung
+Modul (englisch): Introduction to Operating Systems
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-BSE
+SAP-Submodul-Nr.: P221-0014
+Semesterwochenstunden / Lehrform: 2V (2 SWS)
+ECTS-Punkte: 3
+Studiensemester: 1
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 1. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 30 Veranstaltungsstunden (22,5 Zeitstunden)
+- Gesamtumfang: 90 Stunden (bei 3 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 67,5 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Automatisierte Softwareentwicklung (PIB-ASE)
+- Grundlagen der Webentwicklung (PIB-WEB)
+
+Modulverantwortung: Prof. Dr. Markus Esch
+Dozent/innen: Andreas Schaffhauser, M.Sc.
+
+Lernziele:
+Die Studierenden können nach erfolgreichem Abschluss dieses Moduls Unix/Linux-Systeme zur Lösung informationstechnischer Problemstellungen professionell nutzen. Sie automatisieren Aufgaben mit Shell-Skripten und machen diese portabel innerhalb der Unix/Linux-Welt.
+
+Inhalte:
+- Unix/Linux-Grundlagen:
+  - Dateisystem
+  - Zugriffrechte (Dateien, Prozesse)
+  - Ein-/Ausgabe-Konzept
+  - Manual Pages und Hilfequellen
+- Die Shell als Kommandointerpreter:
+  - Kommandozeilenaufbau
+  - Metazeichen, Quotierung
+  - System- und Umgebungsvariablen
+  - Shellprofile und Anpassung
+  - Gruppierung von Kommandos
+- Die 20 wichtigsten Unix/Linux-Kommandos
+- Shell-Programmierung:
+  - Kontrollstrukturen, Variablen, Übergabeparameter
+  - Arithmetik und reguläre Ausdrücke
+  - Aufbau und Entwicklung von Shellskripten
+- Entwicklungs- und Prototyping-Werkzeuge:
+  - Von `make` bis `awk`
+- Netzwerkanalysewerkzeuge:
+  - Von `ip` bis `ssh`
+
+Literatur:
+- Powers, Peek, O’Reilly, Loukides: *Unix Power Tools*, O’Reilly, 2002
+- Rosenblatt: *Learning the Korn Shell*, O’Reilly, 1995
+- Stapelberg: *UNIX SYSTEM V.4*, Addison-Wesley, 1995
+- Patrick Ditchen: *Shell-Skript Programmierung*, mitp, 2003
+- Christian Meißer: *Bash – Arbeiten und programmieren mit der Shell*, open source PRESS, 2011
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Betriebswirtschaftslehre
+Modul (englisch): Business Economics
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-BWL
+SAP-Submodul-Nr.: P222-0001
+Semesterwochenstunden / Lehrform: 4V (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 1
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 1. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Wirtschaftsinformatik (PIB-WIN)
+
+Modulverantwortung: Prof. Dr.-Ing. André Miede
+Dozent/innen: Prof. Dr.-Ing. André Miede
+
+Lernziele:
+Die Studierenden können ökonomische Grundprinzipien benennen und betriebswirtschaftliche Zusammenhänge innerhalb und zwischen Unternehmen beschreiben. Sie sind in der Lage, diese Konzepte auf die IT-Branche anzuwenden und ihre Bedeutung für die Informatik zu erläutern.
+
+Inhalte:
+1. Einführung und Grundlagen
+2. Unternehmen
+3. Märkte
+4. Rechnungswesen
+5. Finanzierung
+6. Organisation und Management
+7. Ausgewählte Sonderthemen der Betriebswirtschaftslehre
+
+Lehrmethoden und Medien:
+Übungen, Fallstudien, Gamification
+
+Literatur:
+- Jean-Paul Thommen, Ann-Kristin Achleitner: *Allgemeine Betriebswirtschaftslehre*, Springer
+- Thomas Straub: *Einführung in die Allgemeine Betriebswirtschaftslehre*, Pearson
+- Henner Schierenbeck, Claudia Wöhle: *Grundzüge der Betriebswirtschaftslehre*, Oldenbourg
+- Han
+============================================================
+Modul: Business Comm. and Intercultural Competence
+Modul (englisch): Business Communication and Intercultural Competence
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-EN1
+SAP-Submodul-Nr.: P221-0017
+Semesterwochenstunden / Lehrform: 2SU (2 SWS)
+ECTS-Punkte: 2
+Studiensemester: 1
+Pflichtfach: Ja
+Arbeitssprache: Englisch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 1. Semester für:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+Geeignet für Austauschstudierende mit Learning Agreement
+
+Arbeitsaufwand:
+- Präsenzzeit: 30 Veranstaltungsstunden (22,5 Zeitstunden)
+- Gesamtumfang: 60 Stunden (bei 2 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 37,5 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- PIB-EN2 Technical Reading and Writing
+- PIB-EN3 Professional Presentations
+
+Modulverantwortung: Prof. Dr. Christine Sick
+Dozent/innen: Dipl.-Übers. Betina Lang
+
+Lernziele:
+Das Modul ist Teil einer Reihe zur Förderung berufsbezogener Englischkenntnisse (Zielniveau B2).  
+Studierende gewinnen Einblick in internationale Arbeitswelten, beschreiben berufliche Aufgaben, analysieren interkulturelle Kommunikationssituationen und leiten daraus angemessenes Verhalten ab. Sie beherrschen situationsgerechte Redemittel und Sprachregister für mündliche und schriftliche Kommunikation mit internationalen Geschäftspartnern.
+
+Inhalte:
+- Begrüßung, Vorstellung, Small Talk
+- Berufliche Aufgaben beschreiben
+- Telefonieren im beruflichen Kontext
+- Geschäftskorrespondenz
+
+Begleitend:
+- Wortschatztraining
+- Grammatikrepetition
+- Funktionaler Sprachgebrauch
+- Interkulturelle Aspekte
+
+Lehrmethoden und Medien:
+Zielgruppenspezifische Materialien (Print, Audio, Video), multimediale Lehr- und Lernsoftware
+
+Literatur:
+- Susanne Ley, Christine Sick: *prep course English*, m&eLanguageLearningPortal@CAS (A1–B1)
+- Christine Sick: *TechnoPlus Englisch VocabApp*, EUROKEY (alle Niveaus)
+- Christine Sick, mit Miriam Lange: *TechnoPlus Englisch 2.0*, EUROKEY (B1–B2+)
+- Weitere empfohlene Materialien werden im Kurs bereitgestellt
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+
+
