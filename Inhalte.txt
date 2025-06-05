@@ -1,6 +1,3 @@
-alle fächer
-
-============================================================
 Modul: Betriebssystemeinführung
 Modul (englisch): Introduction to Operating Systems
 Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
