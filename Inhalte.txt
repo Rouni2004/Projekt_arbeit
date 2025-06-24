@@ -178,5 +178,1747 @@ Literatur:
 Angeboten in folgenden Semestern:
 WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
 ============================================================
+Modul: Informatik 1
+Modul (englisch): Informatics 1
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-INF1
+SAP-Submodul-Nr.: P221-0024
+Semesterwochenstunden / Lehrform: 3V+1U (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 1
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
 
+Verwendbarkeit:
+Pflichtmodul im 1. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Datenbanken (PIB-DB)
+- Informatik 2 (PIB-INF2)
+- Informatik 2 Repetitorium (PIB-IREP2)
+- Projektarbeit (PIB-PA)
+- Programmierung 2 (PIB-PR2)
+- Praxisphase (PIB-PRA)
+- Theoretische Informatik (PIB-TI)
+- Wissenschaftliches Arbeiten (PIB-WA)
+- Grundlagen der Webentwicklung (PIB-WEB)
+
+Modulverantwortung: Prof. Dr. Klaus Berberich
+Dozent/innen: Prof. Dr. Klaus Berberich
+
+Lernziele:
+Die Studierenden sind nach erfolgreichem Absolvieren dieses Moduls in der Lage, Algorithmen zur Lösung einfacher Probleme zu formulieren und zu analysieren. Die Studierenden verstehen wie Zahlen und Zeichen im Rechner dargestellt werden. Sie können zwischen den zugrundeliegenden Zahlensystemen umwandeln und darin rechnen. Die Studierenden kennen Grundbegriffe und Regeln der Aussagenlogik und können diese anwenden, um die Äquivalenz zweier Ausdrücke zu entscheiden. Anhand des Maschinenmodells Random-Access-Machine (RAM) lernen die Studierenden elementare Operationen eines Computers kennen. Sie können einfache Programme mit den Befehlen der RAM implementieren, deren Korrektheit beweisen sowie deren Zeit- und Platzkomplexität bestimmen. Die Studierenden werden mit grundlegenden Algorithmen (z.B. zum Suchen und Sortieren) vertraut und können diese als Bausteine zur Lösung komplexerer Probleme zusammensetzen. Anhand dieser grundlegenden Algorithmen verstehen die Studierenden wichtige Lösungsstrategien (z.B. Teile-und-Herrsche, Rekursion und dynamische Programmierung). Sie lernen zudem elementare Datenstrukturen (z.B. verkettete Listen, MinHeaps und binäre Suchbäume) kennen und können diese sinnvoll situationsabhängig einsetzen.
+
+Inhalte:
+1. Einführung
+2. Mathematische Grundlagen
+   - Zahlensysteme
+   - Boolesche Algebra
+3. RAM als Maschinenmodell
+   - Bestandteile
+   - Korrektheit von Programmen
+   - Laufzeit von Programmen
+4. Algorithmen
+   - Pseudocode einer höheren Programmiersprache
+   - Suchen
+   - Sortieren
+5. Datenstrukturen
+   - Dynamische Arrays
+   - Verkettete Listen
+   - Prioritätswarteschlangen
+   - Binäre Suchbäume
+   - Hashtabellen
+
+Lehrmethoden und Medien:
+Folien, RAMses als Werkzeug zum Erlernen der RAM-Befehle, vorlesungsbegleitende theoretische Übungen
+
+Literatur:
+- Cormen, Leiserson, Rivest, Stein: *Algorithmen – Eine Einführung*, Oldenbourg, 2013
+- Gumm, Sommer: *Einführung in die Informatik*, Oldenbourg Verlag, 2012
+- Saake, Sattler: *Algorithmen und Datenstrukturen: Eine Einführung mit Java*, dpunkt.verlag, 2020
+- Sedgewick, Wayne: *Algorithmen und Datenstrukturen*, Pearson Studium, 2014
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Mathematik 1
+Modul (englisch): Mathematics 1
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-MA1
+SAP-Submodul-Nr.: P221-0001
+Semesterwochenstunden / Lehrform: 4V+2U (6 SWS)
+ECTS-Punkte: 7
+Studiensemester: 1
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 1. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+
+Arbeitsaufwand:
+- Präsenzzeit: 90 Veranstaltungsstunden (67,5 Zeitstunden)
+- Gesamtumfang: 210 Stunden (bei 7 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 142,5 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Datenbanken (PIB-DB)
+- Informatik 2 (PIB-INF2)
+- Informatik 2 Repetitorium (PIB-IREP2)
+- Mathematik 3 (PIB-MA3)
+- Repetitorium Mathematik 1 (PIB-RMA1)
+- Theoretische Informatik (PIB-TI)
+
+Modulverantwortung: Prof. Dr. Peter Birkner
+Dozent/innen: Prof. Dr. Peter Birkner
+
+Lernziele:
+- Grundlegende Formeln der Kombinatorik anwenden und kombinatorische Probleme lösen.
+- Mathematische Beweisverfahren (direkt, indirekt, vollständige Induktion) anwenden.
+- Axiome algebraischer Strukturen (Gruppe, Ring, Körper) benennen und prüfen.
+- Grundbegriffe der Gruppentheorie erkennen (z.B. (Z/mZ, +), ((Z/pZ)\{0}, *)).
+- Vektorraumaxiome verstehen und im R³ veranschaulichen.
+- Geometrische Probleme mit Vektorrechnung und Produkten (Skalar-, Vektor-, Spatprodukt) lösen.
+- Konzepte n-dimensionaler Vektorräume erläutern.
+- Matrizenrechnung, Determinanten und lineare Abbildungen anwenden.
+- Lösungstheorie linearer Gleichungssysteme beherrschen (inkl. Gauß-Algorithmus).
+- Anwendungen der Mathematik in der Informatik verstehen (z.B. Kryptographie, Digitaltechnik).
+
+Inhalte:
+- Abbildungen: Surjektivität, Injektivität, Bijektivität, Umkehrfunktionen
+- Kombinatorik: Fakultät, Abzählformeln, Binomialkoeffizienten, Binomischer Lehrsatz
+- Beweisverfahren: Direkter, Indirekter Beweis, Vollständige Induktion
+- Algebraische Strukturen: Halbgruppen, Monoide, Gruppen, Ringe, Körper (GF(p))
+- Vektorräume: Vektoren, Linearkombination, Unabhängigkeit, Basis, Dimension, Abbildungen, R³-Geometrie
+- Matrizen & Determinanten: Rechnen mit Matrizen, Rang, Determinanten, Inverse, Laplace-Entwicklung
+- Lineare Gleichungssysteme: Lösbarkeit, Cramersche Regel, Gauß-Elimination, Interpolation
+
+Lehrmethoden und Medien:
+Tafelvorlesung, wöchentliche Übungsblätter mit Gruppenbesprechung, Tutorien zur eigenständigen Aufgabenbearbeitung und individuellen Unterstützung
+
+Literatur:
+- Hartmann: *Mathematik für Informatiker*, Vieweg
+- Brill: *Mathematik für Informatiker*, Hanser
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Programmierung 1
+Modul (englisch): Programming 1
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-PR1
+SAP-Submodul-Nr.: P221-0031
+Semesterwochenstunden / Lehrform: 4V+2P (6 SWS)
+ECTS-Punkte: 8
+Studiensemester: 1
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (180 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 1. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Informatik und Web-Engineering (ASPO 01.10.2019, 3. Semester)
+
+Arbeitsaufwand:
+- Präsenzzeit: 90 Veranstaltungsstunden (67,5 Zeitstunden)
+- Gesamtumfang: 240 Stunden (bei 8 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 172,5 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Automatisierte Softwareentwicklung (PIB-ASE)
+- Datenbanken (PIB-DB)
+- Projektarbeit (PIB-PA)
+- Programmierung 2 (PIB-PR2)
+- Programmierung 3 (PIB-PR3)
+- Praxisphase (PIB-PRA)
+- Rapid Game Development (PIB-RGD)
+- Softwareentwicklung mit Spring (PIB-SES)
+- Softwaretechnik (PIB-SWT)
+- Grundlagen der Webentwicklung (PIB-WEB)
+- Wirtschaftsinformatik (PIB-WIN)
+
+Modulverantwortung: Prof. Dr.-Ing. Martin Burger
+Dozent/innen:
+- Prof. Dr.-Ing. Martin Burger
+- Dipl.-Inf. Christopher Olbertz (Übung)
+- Dipl.-Ing. Achim Pick (Übung)
+
+Lernziele:
+- Java-Code schreiben mit Datentypen, Ausdrücken und Kontrollstrukturen
+- Klassen erstellen, Objekte instanziieren, Vererbung anwenden
+- Java-APIs wie String, ArrayList, Exceptions einsetzen
+- Codequalität bewerten und verbessern
+- Eigene Algorithmen und Lösungen entwickeln
+- Vollständige Anwendungen in Projekten entwickeln
+- Selbstorganisiertes Lernen reflektieren und verbessern
+- Teamarbeit in Zweierteams effektiv gestalten
+
+Inhalte:
+- Klassen und Objekte
+- Datentypen und Referenzen
+- Methoden und Instanzvariablen
+- Java-Programme schreiben
+- Java API und externe APIs
+- Vererbung und Polymorphie
+- Interfaces und abstrakte Klassen
+- Konstruktoren und Garbage Collection
+- Zahlenverarbeitung und statische Elemente
+- Ausnahmebehandlung
+- Serialisierung und Datei-I/O
+
+Überfachliche Inhalte:
+- Lernstrategien und deren Reflexion
+- Grundlagen der Teamarbeit
+- Teamdynamiken und produktive Zusammenarbeit
+
+Lehrmethoden und Medien:
+- Folien
+- Beamer
+- Tafel
+- Vorlesungsspezifische Website
+
+Literatur:
+- Bloch, J. (2018). *Effective Java*, dpunkt
+- Burd, B. (2023). *Java für Dummies*, Wiley-VCH
+- Lang, H. (2020). *Vorkurs Informatik für Dummies*, Wiley-VCH
+- Lorig, D. (2021). *Programmieren lernen für Dummies*, Wiley-VCH
+- Sierra, K. et al. (2023). *Java von Kopf bis Fuß*, O’Reilly
+- Thomas, D. & Hunt, A. (2021). *Der Pragmatische Programmierer*, Hanser
+- Ullenboom, C. (2022). *Java ist auch eine Insel*, Rheinwerk
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Technical Reading and Writing
+Modul (englisch): Technical Reading and Writing
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-EN2
+SAP-Submodul-Nr.: P221-0196
+Semesterwochenstunden / Lehrform: 2SU (2 SWS)
+ECTS-Punkte: 2
+Studiensemester: 2
+Pflichtfach: Ja
+Arbeitssprache: Englisch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 2. Semester für:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+Geeignet für Austauschstudierende mit Learning Agreement
+
+Arbeitsaufwand:
+- Präsenzzeit: 30 Veranstaltungsstunden (22,5 Zeitstunden)
+- Gesamtumfang: 60 Stunden (bei 2 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 37,5 Stunden
+
+Empfohlene Voraussetzungen:
+- Business Comm. and Intercultural Competence (PIB-EN1)
+
+Wird empfohlen als Grundlage für:
+- Professional Presentations (PIB-EN3)
+
+Modulverantwortung: Prof. Dr. Christine Sick
+Dozent/innen: Dipl.-Übers. Betina Lang
+
+Lernziele:
+Die Module „Business Communication and Intercultural Competence“, „Technical Reading and Writing“ sowie „Professional Presentations“ bilden eine Einheit zur Weiterentwicklung berufsbezogener Englischkenntnisse vom Niveau B1 auf B2.
+
+Im Modul „Technical Reading and Writing“ erlernen die Studierenden Lesestrategien und wenden diese auf studiengangsspezifische Fachtexte an. Sie erweitern ihr sprachliches Repertoire, um fachliche Inhalte schriftlich strukturiert darstellen zu können.
+
+Inhalte:
+- Global- und Detailverstehen technischer Fachtexte
+- Notizentechniken
+- Textzusammenfassungen
+- Beschreibung technischer Abläufe, Anleitungen, Programmfunktionen
+- Ursache-/Wirkungszusammenhänge
+
+Begleitend:
+- Fachwortschatztraining
+- Wiederholung relevanter grammatischer Strukturen
+
+Lehrmethoden und Medien:
+Zielgruppenspezifisches Material (Print, Audio, Video), multimediale Lehr- und Lernsoftware
+
+Literatur:
+- Christine Sick (2015): *TechnoPlus Englisch VocabApp*, EUROKEY
+- Christine Sick & Miriam Lange (2011): *TechnoPlus Englisch 2.0*, EUROKEY
+- Weitere empfohlene Materialien werden im Kurs bereitgestellt
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Informatik 2
+Modul (englisch): Informatics 2
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-INF2
+SAP-Submodul-Nr.: P221-0025
+Semesterwochenstunden / Lehrform: 3V+1U (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 2
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 2. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Informatik 1 (PIB-INF1)
+- Mathematik 1 (PIB-MA1)
+
+Wird empfohlen als Grundlage für:
+- Projektarbeit (PIB-PA)
+- Praxisphase (PIB-PRA)
+- Theoretische Informatik (PIB-TI)
+- Wissenschaftliches Arbeiten (PIB-WA)
+- Grundlagen der Webentwicklung (PIB-WEB)
+
+Modulverantwortung: Prof. Dr. Klaus Berberich
+Dozent/innen: Prof. Dr. Klaus Berberich
+
+Lernziele:
+Die Studierenden sind mit grundlegenden Problemstellungen auf ungerichteten und gerichteten Graphen sowie Zeichenketten vertraut. Sie definieren Grundbegriffe der Graphentheorie, erkennen deren Bedeutung in der Praxis (z. B. Ablaufplanung) und lösen Aufgaben mit effizienten Algorithmen. Sie formulieren reale Probleme als algorithmische Aufgaben und wenden zuvor erworbene Kenntnisse zur Analyse an.
+
+Inhalte:
+1. Einführung
+2. Suchen und Sortieren
+   - Breitensuche
+   - Tiefensuche
+   - Topologisches Sortieren
+3. Kürzeste Pfade
+   - Algorithmus von Bellman-Ford
+   - Algorithmus von Dijkstra
+   - Algorithmus von Floyd-Warshall
+4. Komponenten und Spannbäume
+   - Zusammenhangskomponenten
+   - Algorithmus von Kruskal
+   - Algorithmus von Prim
+5. Algorithmen auf Zeichenketten
+   - Mustersuche
+   - Längste gemeinsame Zeichenketten
+   - Editierdistanz nach Levenshtein
+   - Weitere Suchverfahren in Zeichenketten
+
+Lehrmethoden und Medien:
+Folien, vorlesungsbegleitende theoretische Übungen
+
+Literatur:
+- Cormen, Leiserson, Rivest, Stein: *Algorithmen – Eine Einführung*, Oldenbourg, 2013
+- Saake, Sattler: *Algorithmen und Datenstrukturen – Eine Einführung mit Java*, dpunkt.verlag, 2020
+- Sedgewick, Wayne: *Algorithmen und Datenstrukturen*, Pearson Studium, 2014
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Mathematik 2
+Modul (englisch): Mathematics 2
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-MA2
+SAP-Submodul-Nr.: P221-0002
+Semesterwochenstunden / Lehrform: 3V+1U (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 2
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 2. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Mathematik 3 (PIB-MA3)
+- Repetitorium Mathematik 2 (PIB-RMA2)
+
+Modulverantwortung: Prof. Dr. Peter Birkner
+Dozent/innen: Prof. Dr. Peter Birkner
+
+Lernziele:
+- Verständnis des Grenzwertbegriffs für Folgen und Funktionen sowie Anwendung der Grenzwertsätze
+- Sichere Anwendung von Konvergenzkriterien zur Analyse von Reihen
+- Erläuterung der Rolle von Reihenentwicklungen in der numerischen Mathematik und Informatik
+- Anwendung von Exponential- und Logarithmusfunktionen in informatischen Kontexten
+- Kenntnis und Anwendung der Differentialrechnung inkl. Ableitungsregeln und Anwendungen wie l’Hospital, Extremwertaufgaben, Taylorreihen
+- Verständnis der Integralrechnung inkl. bestimmtem/unbestimmtem Integral, partielle Integration und Substitution
+- Rechnen mit komplexen Zahlen in kartesischer und polarer Darstellung
+
+Inhalte:
+- Folgen und Reihen
+  - Supremum, Infimum, Grenzwerte, Grenzwertsätze
+  - Reihen, Konvergenzkriterien, geometrische und Exponentialreihe
+- Stetigkeit
+  - Grenzwerte, Eigenschaften stetiger Funktionen, Umkehrfunktionen, Logarithmen
+- Differentialrechnung
+  - Ableitungen, Rechenregeln, Anwendungen (z. B. de L’Hospital, Taylorreihen)
+- Integralrechnung
+  - Riemann-Integral, unbestimmte Integrale, Integrationsmethoden
+- Komplexe Zahlen
+
+Lehrmethoden und Medien:
+Vorlesung an der Tafel, Übungsblätter im zweiwöchigen Rhythmus, Besprechung in Kleingruppen, freiwilliges Tutorium zur Vertiefung und Wiederholung
+
+Literatur:
+- P. Hartmann: *Mathematik für Informatiker*, Vieweg (als PDF via OPAC)
+- M. Brill: *Mathematik für Informatiker*, Hanser
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Programmierung 2
+Modul (englisch): Programming 2
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-PR2
+SAP-Submodul-Nr.: P221-0032
+Semesterwochenstunden / Lehrform: 4V+2P (6 SWS)
+ECTS-Punkte: 8
+Studiensemester: 2
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 2. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+Ebenso im Studiengang Informatik und Web-Engineering, Bachelor, ASPO 01.10.2019, 4. Semester
+
+Arbeitsaufwand:
+- Präsenzzeit: 90 Veranstaltungsstunden (67,5 Zeitstunden)
+- Gesamtumfang: 240 Stunden (bei 8 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 172,5 Stunden
+
+Empfohlene Voraussetzungen:
+- Informatik 1 (PIB-INF1)
+- Programmierung 1 (PIB-PR1)
+
+Wird empfohlen als Grundlage für:
+- Automatisierte Softwareentwicklung (PIB-ASE)
+- Projektarbeit (PIB-PA)
+- Programmierung 3 (PIB-PR3)
+- Praxisphase (PIB-PRA)
+- Rapid Game Development (PIB-RGD)
+- Softwareentwicklung mit Spring (PIB-SES)
+- Softwaretechnik (PIB-SWT)
+- Verteilte Systeme (PIB-VS)
+- Grundlagen der Webentwicklung (PIB-WEB)
+
+Modulverantwortung: Prof. Dr. Markus Esch
+Dozent/innen:
+- Prof. Dr. Markus Esch (Vorlesung)
+- Dominic Büch (Übung)
+- Moritz Niederer, M.Sc. (Übung)
+- Dipl.-Inf. Regina Piontek (Übung)
+- Andreas Schaffhauser, M.Sc. (Übung)
+
+Lernziele:
+- Vertiefung objektorientierter Programmierung aufbauend auf Programmierung 1
+- Anwendung fortgeschrittener Java-Konzepte (z. B. Generics, Lambda, Reflection)
+- Einführung in funktionale Programmierung mit Java (Collections-Framework, Streams)
+- Anwendung und Auswahl geeigneter Datenstrukturen
+- Einführung in imperative C-Programmierung und deren Besonderheiten
+- Vergleich von C mit objektorientierten Sprachen
+- Zusammenarbeit in Kleingruppen im Rahmen praktischer Übungen
+
+Inhalte:
+- Java:
+  - Rekursion, Generics, Annotations
+  - Reflection, Lambda-Ausdrücke
+  - Bäume, Graphen, Listen
+  - Java Collections Framework, Streams
+- C:
+  - Programmstruktur, Operatoren, Kontrollstrukturen, Funktionen
+  - Datentypen, Pointer, Speicherverwaltung
+  - Präprozessor, Compiler, Debugging, `make`
+  - Nutzung von Bibliotheken
+  - Komplexe Datenstrukturen
+
+Lehrmethoden und Medien:
+- Vorlesungsfolien
+- Programmbeispiele
+- Praktische Übungen
+
+Literatur:
+- Weidig: *A Functional Approach to Java*, O’Reilly, 2023
+- Urma, Fusco, Mycroft: *Modern Java in Action*, Manning, 2018
+- Naftalin, Wadler: *Java Generics and Collections*, O’Reilly, 2025
+- Oracle Java SE 23 API Docs
+- Solymosi, Grude: *Grundkurs Algorithmen und Datenstrukturen in JAVA*, Springer, 2017
+- Kernighan, Ritchie: *The C Programming Language*, Prentice Hall, 2000
+- Logofatu: *Einführung in C*, Springer, 2016
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Rechnerarchitektur
+Modul (englisch): Computer Architecture
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-RAR
+SAP-Submodul-Nr.: P221-0037
+Semesterwochenstunden / Lehrform: 2V+2P (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 2
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 2. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Mikroprozessortechnik (PIB-MP)
+
+Modulverantwortung: Prof. Dr. Steffen Knapp
+Dozent/innen: Prof. Dr. Steffen Knapp
+
+Lernziele:
+- Verständnis digitaler Schaltungen (Schaltnetze, Schaltwerke)
+- Analyse und Entwurf digitaler Schaltungen
+- Praktische Anwendung im Rechnertechnik-Kontext
+- Kenntnis der Rechnerarchitektur auf Registerebene
+- Verständnis von Befehlsbearbeitung, Adressierung, Pipelining und Cache-Mechanismen
+
+Inhalte:
+**Teil I – Digitale Schaltungen:**
+- Schaltnetze
+  - Grundlagen, Normalformen, Minimierung, Beispiele
+- Schaltwerke
+  - Flip-Flops, Register, Zähler, Beispiele
+
+**Teil II – Rechnerarchitektur:**
+- Zahlendarstellung
+- Von-Neumann-Architektur
+- Speicherbausteine
+- Ablaufsteuerung, Mikroprogrammierung
+- Instruktionssatz-Architektur
+- Interruptbearbeitung
+- RISC-Prozessoren
+- Pipelining
+- Cache
+
+Lehrmethoden und Medien:
+Vorlesung, Praktikum
+
+Literatur:
+- Borgmeyer: *Grundlagen der Digitaltechnik*, Hanser, 2001
+- Borucki: *Grundlagen der Digitaltechnik*, Teubner, 2000
+- Beuth: *Digitaltechnik*, Vogel, 2003
+- Urbanski: *Digitaltechnik*, Springer, 2004
+- Schiffmann & Schmitz: *Technische Informatik 2*, Springer, 1999
+- Wüst: *Mikroprozessortechnik*, Vieweg, 2003
+- Malz: *Rechnerarchitektur*, Vieweg, 2004
+- Hennessy & Patterson: *Rechnerarchitektur*, Vieweg, 2004
+- Herrmann: *Rechnerarchitektur*, Vieweg, 2000
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Wirtschaftsinformatik
+Modul (englisch): Business Informatics
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-WIN
+SAP-Submodul-Nr.: P221-0043, P610-0532
+Semesterwochenstunden / Lehrform: 3V+1U (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 2
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 2. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Betriebswirtschaftslehre (PIB-BWL)
+- Programmierung 1 (PIB-PR1)
+
+Modulverantwortung: Prof. Dr.-Ing. André Miede
+Dozent/innen: Prof. Dr.-Ing. André Miede
+
+Lernziele:
+- Anwendung von IT- und BWL-Konzepten
+- Benennung, Erklärung und Anwendung grundlegender Begriffe und Methoden der Wirtschaftsinformatik
+- Verständnis betrieblicher Praxis im Informatik-Kontext
+
+Inhalte:
+1. Einführung Informationssysteme und Wirtschaftsinformatik
+2. Strategische und organisatorische Aspekte von Informationssystemen
+3. Geschäftsprozesse und Geschäftsprozessmanagement
+4. IT-Infrastrukturen
+5. Datenorganisation und Datenmanagement
+6. Anwendungssysteme
+7. Integration von Informationssystemen
+8. Sonderthemen:
+   - IT-Sicherheit
+   - IT-Management
+   - Soziale, politische und ethische Aspekte
+   - Aktuelle IT-Trends und Auswirkungen
+
+Lehrmethoden und Medien:
+Fallbeispiele, Fallstudien, Übungen, Gamification
+
+Literatur:
+- Laudon, Schoder: *Wirtschaftsinformatik – Eine Einführung*, Pearson
+- Rainer, Watson: *Management Information Systems*, Wiley
+- Bélanger, Van Slyke: *Information Systems for Business*, Wiley
+- Alpar et al.: *Anwendungsorientierte Wirtschaftsinformatik*, Springer
+- Scholz, Lehner, Wildner: *Wirtschaftsinformatik – Eine Einführung*, Hanser
+- Hansen, Neumann: *Wirtschaftsinformatik 1 & 2*, UTB
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Datenbanken
+Modul (englisch): Databases
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-DB
+SAP-Submodul-Nr.: P221-0018
+Semesterwochenstunden / Lehrform: 3V+1P (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 3
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 3. Semester für mehrere Studiengänge, darunter Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Informatik 1 (PIB-INF1)
+- Mathematik 1 (PIB-MA1)
+- Programmierung 1 (PIB-PR1)
+
+Wird empfohlen als Grundlage für:
+- Projektarbeit (PIB-PA)
+- Praxisphase (PIB-PRA)
+- Grundlagen der Webentwicklung (PIB-WEB)
+
+Modulverantwortung: Prof. Dr. Klaus Berberich
+Dozent/innen: Prof. Dr. Klaus Berberich
+
+Lernziele:
+- Praxisgerechter Einsatz relationaler Datenbanksysteme
+- Datenmodellierung, relationales Modell und Algebra
+- SQL-Anwendung für Schema und Daten
+- Normalformen und deren Anwendung
+- Transaktionen, ACID, Indizes
+- Prozedurale SQL-Erweiterungen, Schnittstellen (z. B. JDBC)
+- Überblick über NoSQL-Datenbanken
+
+Inhalte:
+1. Einführung
+2. Datenbankentwurf
+3. Relationales Modell und relationale Algebra
+4. Structured Query Language (SQL)
+5. Relationale Entwurfstheorie
+6. Datenintegrität
+7. Transaktionsverwaltung
+8. Datenbanktuning
+9. Sicherheitsaspekte
+10. Programmieren mit SQL
+11. Datenbankschnittstellen
+12. Nicht-Relationale Datenbanken
+
+Lehrmethoden und Medien:
+Folien, Skript, Beispieldatenbanken (z. B. SQLite), praktische und theoretische Übungen
+
+Literatur:
+- Kemper & Eickler: *Datenbanksysteme – Eine Einführung*, De Gruyter
+- Saake & Sattler: *Datenbanken – Konzepte und Sprachen*, mitp
+- Wiese: *Advanced Data Management*, De Gruyter
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Professional Presentations
+Modul (englisch): Professional Presentations
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-EN3
+SAP-Submodul-Nr.: P221-0029
+Semesterwochenstunden / Lehrform: 2SU (2 SWS)
+ECTS-Punkte: 2
+Studiensemester: 3
+Pflichtfach: Ja
+Arbeitssprache: Englisch
+Prüfungsart: Präsentation und Ausarbeitung
+
+Verwendbarkeit:
+Pflichtmodul im 3. Semester für:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+Geeignet für Austauschstudierende mit Learning Agreement
+
+Arbeitsaufwand:
+- Präsenzzeit: 30 Veranstaltungsstunden (22,5 Zeitstunden)
+- Gesamtumfang: 60 Stunden (bei 2 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 37,5 Stunden
+
+Empfohlene Voraussetzungen:
+- Business Comm. and Intercultural Competence (PIB-EN1)
+- Technical Reading and Writing (PIB-EN2)
+
+Wird empfohlen als Grundlage für:
+—
+
+Modulverantwortung: Prof. Dr. Christine Sick
+Dozent/innen: Dipl.-Übers. Betina Lang
+
+Lernziele:
+- Anwendung englischsprachiger Präsentationsstrategien
+- Strukturierung und sprachliche Umsetzung professioneller Präsentationen
+- Bewerbungsspezifische Kommunikation (Unterlagen, Interviews)
+- Erweiterung interkulturellen Bewusstseins
+- Sensibilisierung für funktionalen Sprachgebrauch
+
+Inhalte:
+**Präsentationen:**
+- Aufbau einer Präsentation im Englischen
+- Strukturen für die sprachliche Umsetzung
+- Hilfsmittel, Zahlen, Ursache-Wirkung, Trends
+
+**Bewerbungsphase:**
+- Stellenanzeige
+- Bewerbungsunterlagen
+- Vorstellungsgespräch
+
+**Begleitend:**
+- Fachwortschatz
+- Relevante Grammatik
+- Interkulturelle Kommunikation
+
+Lehrmethoden und Medien:
+Zielgruppenspezifisches Material (Print, Audio, Video), multimediale Lehr- und Lernsoftware
+
+Literatur:
+- Christine Sick: *TechnoPlus Englisch VocabApp*, EUROKEY
+- Christine Sick & Miriam Lange: *TechnoPlus Englisch 2.0*, EUROKEY
+- Weitere empfohlene Materialien werden im Kurs bereitgestellt
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Mathematik 3
+Modul (englisch): Mathematics 3
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-MA3
+SAP-Submodul-Nr.: P221-0003
+Semesterwochenstunden / Lehrform: 3V+1U (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 3
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (120 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 3. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Mathematik 1 (PIB-MA1)
+- Mathematik 2 (PIB-MA2)
+
+Wird empfohlen als Grundlage für:
+—
+
+Modulverantwortung: Prof. Dr. Peter Birkner
+Dozent/innen:
+- Prof. Dr. Peter Birkner (Vorlesung)
+- Dipl.-Ing. Dirk Ammon (Übung)
+
+Lernziele:
+- Fehlerquellen beim Rechnen mit Computern benennen und bewerten
+- Iterationsverfahren zur numerischen Lösung kennenlernen
+- Wahrscheinlichkeitsrechnung zur Lösung kombinatorischer Probleme einsetzen
+- Diskrete Mathematik zur Analyse informatischer Systeme anwenden
+- Zahlentheorie für kryptografische und kodierungstechnische Anwendungen nutzen
+
+Inhalte:
+**Numerische Mathematik**
+- Zahldarstellung, Fehler, Intervallhalbierung, Iterationsverfahren, Newton-Verfahren
+
+**Wahrscheinlichkeitsrechnung**
+- Wahrscheinlichkeitsbegriff, bedingte Wahrscheinlichkeit, Verteilungen, Erwartungswert, Varianz
+
+**Diskrete Mathematik**
+- Rekursive Funktionen, Zahlentheorie, endliche Körper, Kryptographie, Kodierungstheorie
+
+Lehrmethoden und Medien:
+Tafelvorlesung, Einsatz eines Computeralgebrasystems, Übungsblätter im Zweiwochentakt, Besprechung in Kleingruppen
+
+Literatur:
+- P. Hartmann: *Mathematik für Informatiker*, Vieweg
+- M. Brill: *Mathematik für Informatiker*, Hanser
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Projektmanagement
+Modul (englisch): Project Management
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-PM
+SAP-Submodul-Nr.: P221-0036
+Semesterwochenstunden / Lehrform: 2V (2 SWS)
+ECTS-Punkte: 3
+Studiensemester: 3
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 3. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+Auch in anderen Informatik-Studiengängen als Pflicht- oder Wahlpflichtmodul enthalten
+
+Arbeitsaufwand:
+- Präsenzzeit: 30 Veranstaltungsstunden (22,5 Zeitstunden)
+- Gesamtumfang: 90 Stunden (bei 3 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 67,5 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Rapid Game Development (PIB-RGD)
+
+Modulverantwortung: Prof. Dr. Steffen Knapp
+Dozent/innen: Prof. Dr. Steffen Knapp
+
+Lernziele:
+- Projektplanung mit funktionalem Projektmanagement anwenden
+- Projektorganisation implementieren und Projektsteuerung durchführen
+- Projektabweichungen erkennen und Planung anpassen
+- Werkzeuge wie Projektstrukturpläne und Netzplantechnik anwenden
+- Besprechungen effizient durchführen und dokumentieren
+- Schätzmethoden zur Projektplanung nutzen
+- Teamarbeit organisieren und Projektleitung übernehmen
+
+Inhalte:
+- Grundlagen von Projekt und Projektmanagement
+- Projektmanagement im Unternehmenskontext
+- Werkzeuge: Projektstrukturplan, Ablaufplanung, Netzplantechnik
+- Information & Kommunikation im Projekt
+- Aufwandsschätzung in IT-Projekten
+- Kollaborative Projektarbeit
+
+Lehrmethoden und Medien:
+Vorlesung, Planspiel, Vorlesungsunterlagen als PDF
+
+Literatur:
+- Burghardt: *Projektmanagement*, Publics MCD
+- Westermann: *Projektmanagement mit System*, Gabler
+- Motzel & Pannenbäcker: *Projektmanagement-Kanon*, Roderer
+- Turner: *Microsoft Solutions Framework Essentials*, Microsoft Press
+- Wieczorrek & Mertens: *Management von IT-Projekten*, SpringerLink
+- Bohinc: *Führung im Projekt*, SpringerLink
+- Bergmann & Barrecht: *Organisation und Projektmanagement*, SpringerLink
+- Königs: *IT-Risikomanagement mit System*, SpringerLink
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Programmierung 3
+Modul (englisch): Programming 3
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-PR3
+SAP-Submodul-Nr.: P221-0033
+Semesterwochenstunden / Lehrform: 2V+2P (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 3
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Projektarbeit
+
+Verwendbarkeit:
+Pflichtmodul im 3. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Programmierung 1 (PIB-PR1)
+- Programmierung 2 (PIB-PR2)
+
+Wird empfohlen als Grundlage für:
+- Automatisierte Softwareentwicklung (PIB-ASE)
+- Softwareentwicklung mit Spring (PIB-SES)
+- Grundlagen der Webentwicklung (PIB-WEB)
+
+Modulverantwortung: Prof. Dr.-Ing. Martin Burger
+Dozent/innen: Prof. Dr.-Ing. Martin Burger
+
+Lernziele:
+- Moderne Programmierkonzepte zur Effizienz- und Lesbarkeitssteigerung einsetzen
+- Clean-Code-Prinzipien anwenden
+- Objektorientierte Softwarelösungen mit fortgeschrittenen Techniken entwerfen
+- Bibliotheken und Frameworks integrieren
+- Logging und Fehlersuche umsetzen
+- Testautomatisierung und Continuous Integration einführen
+- Bestehenden Code refaktorisieren
+- KI-gestützte Codegenerierung verwenden
+- Regelmäßig Programmieraufgaben lösen
+- Projekte im Team mit agilen Methoden planen und durchführen
+
+Inhalte:
+- Fortgeschrittene objektorientierte Programmierung (Records, Pattern Matching, Design Patterns)
+- Clean Code: Namensgebung, Methodenstruktur, Designprinzipien
+- Refactoring und IDE-Unterstützung
+- Unit- und Integrationstests, Continuous Integration (CI) mit Maven und GitLab/GitHub
+- Libraries und Frameworks: Google Guava, jOOQ
+- Coding Katas und Java Challenges
+- Codegenerierung mit IDEs und KI (z. B. GitHub Copilot)
+- Logging mit SLF4J, Logback
+- Versionskontrolle mit Git, gemeinsame Branches
+- Projektarbeit: agile Teams, mehrwöchige Umsetzung
+
+Lehrmethoden und Medien:
+Folien, Beamer, Tafel, vorlesungsspezifische Website
+
+Literatur:
+- Bloch, J.: *Effective Java*, 3. Aufl., Addison-Wesley
+- Farley, D.: *Continuous Delivery* & *Modern Software Engineering*, Addison-Wesley
+- Freeman, E.: *Entwurfsmuster von Kopf bis Fuß*, dpunkt
+- Inden, M.: *Java Challenge*, dpunkt
+- Martin, R. C.: *Clean Code*, Pearson
+- Siessegger, N.: *Git – kurz & gut*, dpunkt
+- Ullenboom, C.: *Java ist auch eine Insel*, Rheinwerk
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Softwaretechnik
+Modul (englisch): Software Engineering
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-SWT
+SAP-Submodul-Nr.: P221-0004
+Semesterwochenstunden / Lehrform: 4V (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 3
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Mündliche Prüfung (30 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 3. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Programmierung 1 (PIB-PR1)
+- Programmierung 2 (PIB-PR2)
+
+Wird empfohlen als Grundlage für:
+- Automatisierte Softwareentwicklung (PIB-ASE)
+- Projektarbeit (PIB-PA)
+- Praxisphase (PIB-PRA)
+- Rapid Game Development (PIB-RGD)
+
+Modulverantwortung: Prof. Dr.-Ing. Martin Burger
+Dozent/innen: Prof. Dr.-Ing. Martin Burger
+
+Lernziele:
+- Stabilitätsorientierte vs. adaptive Vorgehensmodelle vergleichen
+- Prinzipien agiler Softwareentwicklung diskutieren
+- Agiles Framework (z. B. Scrum) beschreiben
+- Software-Design entwerfen
+- Anforderungen formulieren und priorisieren
+- Methoden der Qualitätssicherung unterscheiden
+- Agiles Projekt planen
+- Teamarbeit und Kommunikation reflektieren
+
+Inhalte:
+- Einführung in die Softwaretechnik:
+  - Lebenszyklusmodelle (Wasserfall vs. agil)
+- Agilität:
+  - Prinzipien, agiles Manifest
+- Scrum:
+  - Rollen, Artefakte, Events
+- Kanban und Lean:
+  - Praktiken, Waste-Reduktion
+- Software-Design:
+  - Architektur, Entwurfsmuster, UML
+- User Stories, Backlog-Management
+- Testen & Qualitätssicherung:
+  - TDD, BDD, automatisierte Tests, CI
+- Agiles Projektmanagement:
+  - Planung, Velocity, Burndown-Charts
+- Teamarbeit & Kommunikation
+- Entwicklungsumgebungen & Werkzeuge:
+  - CI/CD, Versionierung, IDEs
+
+Lehrmethoden und Medien:
+Folien, Beamer, Tafel, vorlesungsspezifische Website
+
+Literatur:
+- Ludewig, Lichter: *Software Engineering*, dpunkt
+- Balzert, Heide: *Objektmodellierung mit UML*, Spektrum
+- Balzert, Helmut: *Lehrbuch Softwaretechnik*, Spektrum
+- Oestereich: *Objektorientierte Softwareentwicklung mit UML*, Oldenbourg
+- Sommerville: *Software Engineering*, Pearson
+- Gamma et al.: *Entwurfsmuster*, Addison-Wesley
+- Rupp et al.: *UML 2 Glasklar*, Hanser
+- Fowler: *UML konzentriert*, Addison-Wesley
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Theoretische Informatik
+Modul (englisch): Theoretical Informatics
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-TI
+SAP-Submodul-Nr.: P221-0041
+Semesterwochenstunden / Lehrform: 4V (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 3
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 3. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Informatik 1 (PIB-INF1)
+- Informatik 2 (PIB-INF2)
+- Mathematik 1 (PIB-MA1)
+
+Wird empfohlen als Grundlage für:
+- Funktionale Programmierung (PIB-FPRG)
+- Grundlagen der Webentwicklung (PIB-WEB)
+
+Modulverantwortung: Prof. Dr. Maximilian Altmeyer
+Dozent/innen: Prof. Dr. Maximilian Altmeyer
+
+Lernziele:
+- Grundbegriffe und Konzepte der theoretischen Informatik verstehen
+- Eigenschaften von Automaten und Sprachen beweisen (z. B. mit dem Pumping-Lemma)
+- Geeignete theoretische Modelle zur Lösung praktischer Probleme auswählen und anwenden
+
+Inhalte:
+- Mathematische Grundlagen
+- Reguläre Sprachen, endliche Automaten, Nichtdeterminismus
+- Reguläre Ausdrücke, Minimalautomat, Pumping-Lemma
+- Kontextfreie Sprachen, kontextfreie Grammatiken, Normalformen
+- CYK-Algorithmus, Kellerautomaten
+- Turingmaschinen und Varianten
+- Entscheidbarkeit, Halteproblem
+
+Lehrmethoden und Medien:
+Tafel, Skript, Simulationssoftware
+
+Literatur:
+- Hopcroft, Ullman, Motwani: *Einführung in die Automatentheorie*, Pearson, 2002
+- Sipser: *Introduction to the Theory of Computation*, Course Technology, 3rd Ed., 2012
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Betriebssysteme
+Modul (englisch): Operating Systems
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-BS
+SAP-Submodul-Nr.: P221-0013
+Semesterwochenstunden / Lehrform: 2V+2P (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 4
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 4. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Verteilte Systeme (PIB-VS)
+
+Modulverantwortung: Prof. Dr. Steffen Knapp
+Dozent/innen: Prof. Dr. Steffen Knapp
+
+Lernziele:
+Die Studierenden kennen den typischen Aufbau und die Prinzipien von Betriebssystemen und Alternativen bei der Entwicklung. Darüber hinaus verstehen sie die Verwaltungsstrategien der entsprechenden Ressourcen sowie die Mechanismen des Schedulings sowie der Synchronisation von Prozessen. Sie können die erlernten Zusammenhänge auf andere Betriebssysteme und Umgebungen anwenden.
+
+Inhalte:
+- Einführung, Betriebssystem-Konzepte
+- Memory-Management, Paging
+- Prozess-Management, konkurrierende Prozesse
+- Scheduling
+- Synchronisation
+- Virtualisierung
+
+Lehrmethoden und Medien:
+Kombination aus Vorlesung und begleitendem Praktikum, Tutorien und Übungen; Vorlesungsfolien, Übungsaufgaben, Beispiellösungen
+
+Literatur:
+- J. Nehmer, P. Sturm: Systemsoftware – Grundlagen moderner Betriebssysteme, Punkt, 2001
+- A. Tanenbaum, H. Bos: Moderne Betriebssysteme, Pearson Studium, 2016
+- W. Stallings: Operating Systems, Prentice Hall, 2014
+- A. Silberschatz et al.: Operating System Concepts, Wiley, 2008
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Projektarbeit
+Modul (englisch): Project Work
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-PA
+SAP-Submodul-Nr.: P221-0035
+Semesterwochenstunden / Lehrform: 3PA+1S (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 4
+Pflichtfach: Ja
+Arbeitssprache: Deutsch/Englisch
+Prüfungsart: Ausarbeitung, Präsentation, Seminarvortrag
+
+Verwendbarkeit:
+Pflichtmodul im 4. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+Geeignet für Austauschstudierende mit Learning Agreement
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Datenbanken (PIB-DB)
+- Informatik 1 (PIB-INF1)
+- Informatik 2 (PIB-INF2)
+- Programmierung 1 (PIB-PR1)
+- Programmierung 2 (PIB-PR2)
+- Softwaretechnik (PIB-SWT)
+
+Modulverantwortung: Professor/innen des Studiengangs
+Dozent/innen: Dozierende des Studiengangs
+
+Lernziele:
+Die Studierenden
+- verfügen über die Kenntnisse und Erfahrungen, die für die Konzeption, Planung und Durchführung eines praktischen Projekts erforderlich sind.
+- beherrschen die Methodiken und Vorgehensweisen, die in den einzelnen Phasen einer Projektarbeit in mittelgroßen Teams (6 bis 10 Studierende) erforderlich sind.
+- haben Erfahrungen in Teamleitung, Teamarbeit und Konfliktmanagement gesammelt.
+
+Inhalte:
+Ausgehend von einer informatiknahen Problemstellung wenden die Studierenden das Wissen aus den Gebieten Softwaretechnik, Programmierung und Datenbanken in einem abgeschlossenen Projekt unter Fachaufsicht an. In die Projektarbeit sind verschiedene Methoden und Arbeitstechniken integriert, z. B.:
+- Projektmanagement
+- Teamarbeit
+- Erstellung von Dokumentationen
+- Präsentation von Ergebnissen
+
+Zur Projektarbeit gehört ein verpflichtendes Begleitseminar. Jeder Studierende hält darin einen mindestens 30-minütigen Vortrag zu einem fachlichen oder projektbezogenen Thema.
+
+Lehrmethoden und Medien:
+Ausarbeitung, Folien, Präsentation
+
+Literatur:
+Projektbezogene Literatur wird jeweils durch die Dozierenden vorgegeben.
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Rechnernetze
+Modul (englisch): Computer Networks
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-RN
+SAP-Submodul-Nr.: P221-0038
+Semesterwochenstunden / Lehrform: 2V+2P (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 4
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 4. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+Wahlpflichtfach in Biomedizinischer Technik
+Pflichtfach in Kommunikationsinformatik und Produktionsinformatik
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+- Praxisphase (PIB-PRA)
+- Verteilte Systeme (PIB-VS)
+
+Modulverantwortung: Prof. Dr. Steffen Knapp
+Dozent/innen: Prof. Dr. Steffen Knapp
+
+Lernziele:
+Die Studierenden kennen die Funktionsweise und Datenstrukturen der grundlegenden Internet-Protokollfamilien zwischen LAN- und Applikationsebene. Sie sind in der Lage, die Kommunikation in einem Rechnernetzwerk zu beschreiben und diese Kenntnisse zur Fehlersuche einzusetzen.
+
+Inhalte:
+0. Kommunikations-Modelle
+1. Bitübertragung
+2. Ethernet
+3. IP
+4. TCP/UDP
+5. Ausgewählte Internetprotokolle der Anwendungsschicht
+6. Netzwerktools
+
+Literatur:
+- Kurose, Ross: *Computernetzwerke*, Pearson, 2012
+- D. Comer: *Computer Networks and Internets: Global Edition*, Pearson, 2015
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Security-Engineering
+Modul (englisch): Security Engineering
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-SE
+SAP-Submodul-Nr.: P222-0039
+Semesterwochenstunden / Lehrform: 2V+2P (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 4
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 4. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+Ebenso Pflichtfach in den Studiengängen Kommunikationsinformatik, Web-Engineering und Produktionsinformatik
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+Keine
+
+Wird empfohlen als Grundlage für:
+(nicht explizit genannt)
+
+Modulverantwortung: Prof. Dr. Damian Weber
+Dozent/innen: Prof. Dr. Damian Weber
+
+Lernziele:
+Die Studierenden kennen die kritischen Teile, Vorgänge und auditierungsrelevanten Daten eines Betriebssystems.
+Anhand eines Open-Source-UNIX-Systems analysieren sie Prozesse, Sicherheitslücken und Systemaufrufe.
+Diese Kenntnisse versetzen sie in die Lage, Security-by-Design-Konzepte zu entwickeln und Angriffsflächen zu minimieren.
+Sie verstehen grundlegende kryptografische Verfahren sowie die gesellschaftliche Bedeutung von Datenschutz und Privatsphäre.
+
+Inhalte:
+1. Sicherheitsbegriffe, Bedrohungsmodell, Beispiele
+2. Identitäten, Authentisierung, Autorisierung
+3. Verschlüsselung (symmetrisch, asymmetrisch)
+4. Sichere Hashfunktionen, Message Authentication Codes
+5. UNIX unter dem Blickwinkel der Sicherheit
+6. Auditing, Systemstatus, Systemstatistiken
+7. Netzwerksicherheit, Perimetersicherheit
+8. Penetrationstests
+
+Literatur:
+- D. Kim, M. G. Solomon: *Fundamentals Of Information Systems Security*, 2016
+- G. Weidman: *Penetration Testing: A Hands-On Introduction to Hacking*, 2014
+- https://www.sans.org/
+- http://www.securityfocus.com/vulnerabilities
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Wissenschaftliches Arbeiten
+Modul (englisch): Scientific Work
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-WA
+SAP-Submodul-Nr.: P221-0046
+Semesterwochenstunden / Lehrform: 1V+1U (2 SWS)
+ECTS-Punkte: 2
+Studiensemester: 4
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Schriftliche Ausarbeitung (Umfang ca. 9–15 Seiten)
+
+Verwendbarkeit:
+Pflichtmodul im 4. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 30 Veranstaltungsstunden (22,5 Zeitstunden)
+- Gesamtumfang: 60 Stunden (bei 2 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 37,5 Stunden
+
+Empfohlene Voraussetzungen:
+- Informatik 1 (PIB-INF1)
+- Informatik 2 (PIB-INF2)
+
+Wird empfohlen als Grundlage für:
+(nicht explizit genannt)
+
+Modulverantwortung: Prof. Dr. Peter Birkner
+Dozent/innen: Prof. Dr. Klaus Berberich, Prof. Dr. Peter Birkner
+
+Lernziele:
+Die Studierenden lernen, wie wissenschaftliches Arbeiten in der Informatik funktioniert.
+Sie können Recherchen durchführen, Argumente schriftlich formulieren und korrekt zitieren.
+Zudem wenden sie gängige Werkzeuge zur wissenschaftlichen Dokumentation an.
+
+Inhalte:
+1. Grundzüge der Wissenschaft
+2. Formen der Wissenschaft in der Informatik
+3. Wissenschaftsbetrieb in der Informatik
+4. Recherche: Ziel, Methodik, Quellen
+5. Argumentieren und Zitieren
+6. Werkzeuge wissenschaftlicher Dokumentation
+7. Sprachliche Darstellung wissenschaftlicher Ergebnisse
+8. Ausgewählte Sonderthemen
+
+Lehrmethoden und Medien:
+Folien, Beamer, Tafel, Diskussionen, theoretische und praktische Übungen
+
+Literatur:
+- Martin Kornmeier: *Wissenschaftlich Schreiben leicht gemacht*, utb, 2013
+- Marcus Deininger et al.: *Studien-Arbeiten*, Teubner, 5. Auflage, 2005
+- Justin Zobel: *Writing for Computer Science*, Springer, 3. Auflage, 2014
+- Barbara Minto: *Das Prinzip der Pyramide*, Pearson Studium, 2005
+- Gene Zelazny: *Say it with Presentations*, McGraw-Hill, 2006
+- Tobias Oetiker: *The Not So Short Introduction to LaTeX*
+
+Angeboten in folgenden Semestern:
+SS 2025, SS 2024, SS 2023, SS 2022, SS 2021
+============================================================
+Modul: Mikroprozessortechnik
+Modul (englisch): Microprocessor Technology
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-MP
+SAP-Submodul-Nr.: P221-0028
+Semesterwochenstunden / Lehrform: 2V+2P (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 5
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten, 50 %) + Praktikum (50 %)
+
+Verwendbarkeit:
+Pflichtmodul im 5. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Rechnerarchitektur (PIB-RAR)
+
+Wird empfohlen als Grundlage für:
+(nicht explizit genannt)
+
+Modulverantwortung: Prof. Dr.-Ing. Jürgen Schäfer
+Dozent/innen: Prof. Dr.-Ing. Jürgen Schäfer
+
+Lernziele:
+Die Studierenden verstehen Aufbau und Arbeitsweise eines Mikrocontrollers mit Peripherie auf Basis einer modernen RISC-Architektur. Sie entwickeln in Assembler und C praxisbezogene Programme zu ausgewählten Problemstellungen.
+
+Inhalte:
+1. Die Architektur des ARM7
+2. Das Programmiermodell des ARM7
+   2.1 Der ARM-Instruktionssatz
+   2.2 Adressierungsarten
+       - Pre-/Post-Indexed Adressing
+       - Direkte Adressierung
+   2.4 Assembler-Direktiven
+       - Symboldefinition
+       - Speicherinitialisierung / -reservierung
+       - Speicherzuordnung
+   2.5 Besondere Betriebsarten
+       - Interrupt-Vektoren
+       - Systemstart nach Reset
+3. Die LPC2000-Prozessor-Familie
+   - Speicheraufteilung
+   - Vektorisierte Interrupts
+   - Peripherie-Bausteine
+4. C-Programmierung von Mikrocontrollern
+   - Start der C-Applikation
+   - Variablenattribute
+5. Digitale Ein-/Ausgabe
+6. Port-Pin-Konfiguration
+7. Externe Interrupts
+8. Vectored Interrupt Controller (VIC)
+9. Timer
+10. Serielle Datenübertragung
+
+Literatur:
+- D. Seal: *ARM Architecture Reference Manual*, Addison-Wesley, 2001
+- Advanced RISC Machines: *Programming Techniques*, 1995
+- ARM: *Software Development Toolkit User Guide*, 1998
+- T. Martin: *The Insider's Guide to the Philips ARM7-Based Microcontrollers*, Hitex, 2005
+- Philips: *User Manual LPC2119/2129/2194/2292/2294*, 2004
+- J.A. Langbridge: *Professional Embedded ARM Development*, Wiley, 2014
+- ARM Infocenter: http://infocenter.arm.com/help
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Verteilte Systeme
+Modul (englisch): Distributed Systems
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-VS
+SAP-Submodul-Nr.: P221-0005
+Semesterwochenstunden / Lehrform: 2V+1U+1PA (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 5
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Projektarbeit mit Präsentation (40 Minuten) und Ausarbeitung (20–30 Seiten)
+
+Verwendbarkeit:
+Pflichtmodul im 5. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Betriebssysteme (PIB-BS)
+- Programmierung 2 (PIB-PR2)
+- Rechnernetze (PIB-RN)
+
+Wird empfohlen als Grundlage für:
+(nicht explizit genannt)
+
+Modulverantwortung: Prof. Dr. Markus Esch
+Dozent/innen: Prof. Dr. Markus Esch
+
+Lernziele:
+Die Studierenden benennen und erklären Eigenschaften, Architekturen und Konzepte verteilter Systeme. Sie entwerfen, modellieren und implementieren eigene Lösungen, analysieren verschiedene Architekturansätze und wenden moderne Technologien sowie Programmiertechniken in praxisnahen Projektarbeiten an. Zudem wenden sie Methoden des Projektmanagements an.
+
+Inhalte:
+- Eigenschaften verteilter Systeme
+- Architekturen verteilter Systeme
+- Interprozesskommunikation:
+  - Client/Server-Programmierung
+  - Socket-Programmierung
+  - Remote Procedure Calls
+  - gRPC
+  - Java RMI
+  - SOAP Web-Services
+  - REST
+  - MQTT
+
+Weitere Lehrmethoden und Medien:
+Vorlesungsfolien, Programmbeispiele, Projektarbeit, Gruppenarbeitsmaterialien
+
+Literatur:
+- M. v. Steen, A. S. Tanenbaum: *Distributed Systems*, 4th Edition, 2023
+- D. Abts: *Masterkurs Client/Server-Programmierung mit Java*, Springer, 2022
+- *Jakarta EE API Specification*, Version 10: https://jakarta.ee/specifications/platform/10/apidocs/
+- A. Schill, T. Springer: *Verteilte Systeme: Grundlagen und Basistechnologien*, Springer, 2012
+- G. Bengel: *Grundkurs Verteilte Systeme*, Springer, 2014
+- S. Gulabani: *Developing RESTful Web Services with Jersey 2.0*, 2014
+- B. Burke: *RESTful Java with JAX-RS 2.0*, 2. Auflage, 2013
+- E. Harold: *Java Network Programming*, 4th Edition, 2013
+- A. Lombardi: *Websockets – Lightweight Client-Server Communications*, 2015
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Grundlagen der Webentwicklung
+Modul (englisch): Principles of Web Development
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-WEB
+SAP-Submodul-Nr.: P221-0023
+Semesterwochenstunden / Lehrform: 2V+2U (4 SWS)
+ECTS-Punkte: 5
+Studiensemester: 5
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Klausur (90 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 5. Semester des Studiengangs Praktische Informatik (ASPO 01.10.2022)
+
+Arbeitsaufwand:
+- Präsenzzeit: 60 Veranstaltungsstunden (45 Zeitstunden)
+- Gesamtumfang: 150 Stunden (bei 5 ECTS)
+- Vor- und Nachbereitung + Prüfungsvorbereitung: 105 Stunden
+
+Empfohlene Voraussetzungen:
+- Betriebssystemeinführung (PIB-BSE)
+- Datenbanken (PIB-DB)
+- Informatik 1 (PIB-INF1)
+- Informatik 2 (PIB-INF2)
+- Programmierung 1 (PIB-PR1)
+- Programmierung 2 (PIB-PR2)
+- Programmierung 3 (PIB-PR3)
+- Theoretische Informatik (PIB-TI)
+
+Wird empfohlen als Grundlage für:
+- Funktionale Programmierung (PIB-FPRG)
+
+Modulverantwortung: Prof. Dr. Maximilian Altmeyer
+Dozent/innen: Prof. Dr. Maximilian Altmeyer
+
+Lernziele:
+Die Studierenden erwerben die Fähigkeit, grundlegende Webanwendungen zu erstellen, die asynchron mit einem Server-Backend auf Basis von HTML5, CSS und JavaScript interagieren. Sie lernen XML-Dokumente und DTDs zu erstellen und zu validieren, DOM und semantisches HTML zu nutzen, CSS zur Gestaltung einzusetzen sowie JavaScript für Interaktivität, DOM-Manipulation, Events, JSON, asynchrone Ausführung, Promises und Client-Server-Kommunikation (REST, Websockets) anzuwenden.
+
+Inhalte:
+- XML, DTD & Unicode
+- Browser & HTML
+- DOM & Accessibility
+- CSS & Responsive Design
+- JavaScript Basics, Scope, Events, DOM
+- JSON & Datenstrukturen in Node.js
+- SVG
+- Asynchrone Ausführung & Promises
+- Server- & Client-Anwendungen mit JavaScript
+- Client/Server-Kommunikation: REST, Websockets
+- Same-Origin Policy & CORS
+- Web Components
+
+Weitere Lehrmethoden und Medien:
+Vortrag, Vorführung, Übungen
+
+Literatur:
+- Flanagan, David: *JavaScript – Das umfassende Referenzwerk*, O'Reilly, 2012
+- Mozilla Developer Network: https://developer.mozilla.org/de/
+- Harold, E.R., Means, W.S.: *XML in a Nutshell*, O’Reilly, 2005
+- Kay, Michael: *XSLT 2.0 and XPath 2.0 Programmer’s Reference*, 4th edition, Wrox Press, 2008
+- W3C: *Extensible Markup Language (XML) 1.0 (Fifth Edition)*, https://www.w3.org/TR/xml/
+
+Angeboten in folgenden Semestern:
+WS 2024/25, WS 2023/24, WS 2022/23, WS 2021/22, WS 2020/21
+============================================================
+Modul: Bachelor-Kolloquium
+Modul (englisch): Bachelor Colloquium
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-BK
+SAP-Submodul-Nr.: S221-0010
+Semesterwochenstunden / Lehrform: -
+ECTS-Punkte: 3
+Studiensemester: 6
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Präsentation mit mündlicher Abnahme (40–45 Minuten inkl. Demo und Diskussion)
+
+Verwendbarkeit:
+Pflichtmodul im 6. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+- Informatik und Web-Engineering (ASPO 01.10.2019)
+
+Arbeitsaufwand:
+Nicht explizit ausgewiesen
+
+Empfohlene Voraussetzungen:
+Keine
+
+Modulverantwortung: Studienleitung
+Dozent/innen: Professor/innen des Studiengangs
+
+Lernziele:
+- Selbstständige Analyse umfangreicher Stoffgebiete
+- Kompakte, professionelle Darstellung komplexer Zusammenhänge
+- Fachlich fundierte Beantwortung tiefergehender Fragen zur eigenen Bachelorarbeit
+
+Inhalte:
+Ziel des Bachelor-Kolloquiums ist die mündliche Darstellung und Begründung der Inhalte und Ergebnisse der Bachelorarbeit sowie die Überprüfung der Eigenständigkeit der Leistung.
+
+Literatur:
+Die in der jeweiligen Bachelorarbeit aufgeführten Quellen
+============================================================
+Modul: Bachelor-Kolloquium
+Modul (englisch): Bachelor Colloquium
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-BK
+SAP-Submodul-Nr.: S221-0010
+Semesterwochenstunden / Lehrform: -
+ECTS-Punkte: 3
+Studiensemester: 6
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Präsentation mit mündlicher Abnahme (40–45 Minuten inkl. Demo und Diskussion)
+
+Verwendbarkeit:
+Pflichtmodul im 6. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+- Informatik und Web-Engineering (ASPO 01.10.2019)
+
+Arbeitsaufwand:
+Nicht explizit ausgewiesen
+
+Empfohlene Voraussetzungen:
+Keine
+
+Modulverantwortung: Studienleitung
+Dozent/innen: Professor/innen des Studiengangs
+
+Lernziele:
+- Selbstständige Analyse umfangreicher Stoffgebiete
+- Kompakte und professionelle Darstellung komplexer Inhalte
+- Kompetenz zur Beantwortung tiefergehender Fragen zur eigenen Bachelorarbeit
+
+Inhalte:
+Präsentation, Begründung und Verteidigung der Inhalte und Ergebnisse der Bachelorarbeit in einer Prüfungssituation. Ziel ist die Überprüfung der Eigenständigkeit sowie das Training der wissenschaftlichen Kommunikationsfähigkeit.
+
+Literatur:
+Literatur entsprechend der gewählten Bachelorarbeit
+============================================================
+Modul: Bachelor-Abschlussarbeit
+Modul (englisch): Bachelor Thesis
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-BT
+SAP-Submodul-Nr.: T221-0008
+Semesterwochenstunden / Lehrform: -
+ECTS-Punkte: 12
+Studiensemester: 6
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Schriftliche Ausarbeitung (ca. 50–100 Seiten)
+
+Verwendbarkeit:
+Pflichtmodul im 6. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+- Informatik und Web-Engineering (ASPO 01.10.2019)
+
+Arbeitsaufwand:
+Nicht explizit ausgewiesen
+
+Empfohlene Voraussetzungen:
+Keine
+
+Modulverantwortung: Studienleitung
+Dozent/innen: Professor/innen des Studiengangs
+
+Lernziele:
+- Selbstständige Bearbeitung mittlerer bis schwieriger Aufgabenstellungen innerhalb vorgegebener Frist unter Anwendung wissenschaftlicher Methoden
+- Ziel- und ergebnisorientierter Einsatz von Fachkenntnissen und Methoden zur Lösungsentwicklung
+- Zusammenarbeit mit internen und externen Auftraggebern zur Problemanalyse und Lösungskonzeption
+- Wissenschaftlich fundierte schriftliche Dokumentation der Arbeitsergebnisse
+
+Inhalte:
+Die Bachelor-Abschlussarbeit ist ein eigenständiges Projekt mit Bezug zur Forschung, Industrie oder Wirtschaft. Sie kann theoretisch, programmiertechnisch, empirisch oder experimentell angelegt sein. Die Arbeit dokumentiert die Projektbeteiligung des Studierenden unter Berücksichtigung projektorientierter Aspekte wie Planung, Durchführung und Ergebnisdarstellung.
+
+Literatur:
+Vom betreuenden Dozenten festgelegt bzw. themenspezifisch eigenständig zu recherchieren
+============================================================
+Modul: Praxisphase
+Modul (englisch): Work Experience Phase
+Studiengang: Praktische Informatik, Bachelor, ASPO 01.10.2022
+Code: PIB-PRA
+SAP-Submodul-Nr.: S221-0173
+Semesterwochenstunden / Lehrform: -
+ECTS-Punkte: 15
+Studiensemester: 6
+Pflichtfach: Ja
+Arbeitssprache: Deutsch
+Prüfungsart: Studienbericht (10–15 Seiten), Präsentation (ca. 15 Minuten)
+
+Verwendbarkeit:
+Pflichtmodul im 6. Semester der Studiengänge:
+- Praktische Informatik (ASPO 01.10.2022)
+- Kommunikationsinformatik (ASPO 01.10.2021 & 01.10.2022)
+- Produktionsinformatik (SO 01.10.2023)
+- Informatik und Web-Engineering (ASPO 01.10.2019)
+
+Arbeitsaufwand:
+Nicht explizit ausgewiesen
+
+Empfohlene Voraussetzungen:
+- Datenbanken (PIB-DB)
+- Informatik 1 (PIB-INF1)
+- Informatik 2 (PIB-INF2)
+- Programmierung 1 (PIB-PR1)
+- Programmierung 2 (PIB-PR2)
+- Rechnernetze (PIB-RN)
+- Softwaretechnik (PIB-SWT)
+
+Modulverantwortung: Studienleitung
+Dozent/innen: Studienleitung
+
+Lernziele:
+- Anwendung erworbener Kenntnisse und Fähigkeiten im betrieblichen Umfeld
+- Fähigkeit zur Einarbeitung in neue Arbeitsumgebungen
+- Selbstständige Lösung konkreter betrieblicher Aufgabenstellungen
+- Einblick in die Rolle des Informatikers im Unternehmen
+- Verständnis betrieblicher Strukturen und Abläufe
+
+Inhalte:
+Die Themen der Praxisphase werden gemeinsam von Betrieb, Studierendem und betreuender Hochschule festgelegt und sollen auf die Bachelorarbeit vorbereiten.
+Die Studierenden dokumentieren ihre Praxiserfahrungen in einem schriftlichen Bericht (ca. 8–10 Seiten) und präsentieren die Inhalte in einem Kurzvortrag.
+
+Literatur:
+Thematisch abhängig vom jeweiligen Praxisprojekt
+============================================================
 
